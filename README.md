@@ -16,6 +16,9 @@
   - [ ] Bootstrap
   - [ ] Tailwindcss
   - [ ] None
+- [ ] Addons
+  - [ ] Elementor
+  - [ ] Block
 
 ## Installation
 
